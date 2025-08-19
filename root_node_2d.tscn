@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://djf5vxt5rq1d2"]
+
+[ext_resource type="Script" uid="uid://cjl6rpx1452o4" path="res://Main.gd" id="1_2rpvn"]
+
+[node name="RootNode2D" type="Node2D"]
+script = ExtResource("1_2rpvn")
+
+[node name="BoidsContainer" type="Node2D" parent="."]
